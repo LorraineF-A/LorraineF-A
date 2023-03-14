@@ -1,7 +1,7 @@
 ## Oi, Bem-vindo(a) ao perfil da Lorraine Fernandes! 😁
 
-- 🔭 Desenvolvedora de FronEnd 
-- 😄 Pronomes: Ela/Dela
+- 💻 Desenvolvedora de FronEnd 
+- 🙋 Pronomes: Ela/Dela
 
  <div>
    <a href="https://github.com/LorraineF-A">
