@@ -1,12 +1,23 @@
-  ## Oi, muito prazer, eu sou Lorraine Fernandes! 😁
+  ## Oii, eu sou a Lorraine Fernandes! 
 
-- 💻 Desenvolvedora de FronEnd 
+<p align="center">
+Sou uma estudante de programação web. Meu objetivo é desenvolver aplicativos da web, mobile e futuramente abranger meus conhecimentos em cloud computing. Estou constantemente aprendendo e experimentando novas tecnologias e frameworks através da Dev Quest. 
+</p>
+
 - 🙋 Pronomes: Ela/Dela
+  
+- 🌱 Estou estudando para me **tornar uma Desenvolvedora Fullstack**.
+
+- 💻 Atualmente estou aprendendo HTML5 de nivel Intermediário.
+
+- 💬 Me pergunte sobre **HTML e CSS**.
+
+- ❤️ Estou procurando ajuda para aprender e desenvolver novos projetos. 
 
  <div>
    <a href="https://github.com/LorraineF-A">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LorraineF-A&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LorraineF-A&layout=compact&langs_count=6&theme=radical"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LorraineF-A&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LorraineF-A&layout=compact&langs_count=6&theme=jolly"/>
 
 </div>
 <div style="display: inline_block"><br>
@@ -23,6 +34,9 @@
   <a href = "mailto:lorrainef39@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/Lorraine#3400" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lorraine-fernandes-95740420b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
+  
+  ![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
 
 </div>
