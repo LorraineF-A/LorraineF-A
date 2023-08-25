@@ -35,6 +35,4 @@ Sou uma estudante de programação web. Meu objetivo é desenvolver aplicativos 
   <a href="https://discord.gg/Lorraine#3400" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lorraine-fernandes-95740420b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-  ![snake gif](https://github.com/seu_usuario_github/seu_usuario_github/blob/output/github-contribution-grid-snake.svg)
-
 </div>
