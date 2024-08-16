@@ -1,16 +1,14 @@
   ## Oii, eu sou a Lorraine Fernandes! 
 
 <p align="center">
-Sou uma estudante de programação web. Meu objetivo é desenvolver aplicativos da web, mobile e futuramente abranger meus conhecimentos em cloud computing. Estou constantemente aprendendo e experimentando novas tecnologias e frameworks através da Dev Quest. 
+Sou uma Desenvolvedora Front-Eend. Meu objetivo é desenvolver aplicativos da web, mobile e futuramente abranger meus conhecimentos em sistemas de nuvens. Estou constantemente aprendendo e experimentando novas tecnologias e frameworks através da Dev Quest, Dev Samurai e Bootcamps DIO.
 </p>
 
 - 🙋 Pronomes: Ela/Dela
   
 - 🌱 Estou estudando para me **tornar uma Desenvolvedora Fullstack**.
 
-- 💻 Atualmente estou aprendendo HTML5 de nivel Intermediário.
-
-- 💬 Me pergunte sobre **HTML e CSS**.
+- 💻 Atualmente estou aprendendo .NET C#.
 
 - ❤️ Estou procurando ajuda para aprender e desenvolver novos projetos. 
 
