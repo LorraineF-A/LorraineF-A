@@ -1,7 +1,11 @@
-  ## Oii, eu sou a Lorraine Fernandes! 
+  ## Lorraine Fernandes
 
-<p align="center">
-Sou uma Desenvolvedora Front-Eend. Meu objetivo é desenvolver aplicativos da web, mobile e futuramente abranger meus conhecimentos em sistemas de nuvens. Estou constantemente aprendendo e experimentando novas tecnologias e frameworks através da Dev Quest, Dev Samurai e Bootcamps DIO.
+  <img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png">
+
+<p align="justify">
+Sou uma Desenvolvedora Front-Eend. 
+Meu objetivo é desenvolver interfaces de usuário intuitivas com aplicativos da web e mobile. Tenho uma curiosidedade em sistemas de nuvens, sendo também um objetivo futuro que pretendo explorar.
+Apaixonada por história, artes, moda e tecnologia, alguns dos meus hobbies são jogos mobile como AFK Journey e Genshin Impact, assistir séries - minhas preferiidas são B99 e The Big Bang Theory, e ler livros/quadrinhos/mangás. 
 </p>
 
 - 🙋 Pronomes: Ela/Dela
@@ -10,7 +14,7 @@ Sou uma Desenvolvedora Front-Eend. Meu objetivo é desenvolver aplicativos da we
 
 - 💻 Atualmente estou aprendendo .NET C#.
 
-- ❤️ Estou procurando ajuda para aprender e desenvolver novos projetos. 
+- ❤️ Sinta-se à vontade para explorar meus repositórios e conectar-se comigo para colaborar em projetos interessantes!
 
  <div>
    <a href="https://github.com/LorraineF-A">
@@ -26,7 +30,7 @@ Sou uma Desenvolvedora Front-Eend. Meu objetivo é desenvolver aplicativos da we
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ### Conecte-se comigo!
  
 <div> 
   <a href = "mailto:lorrainef39@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
