@@ -12,7 +12,7 @@ Adimiradora por história, artes, moda e tecnologia, alguns dos meus hobbies sã
   
 - 🌱 Estou estudando para me **tornar uma Desenvolvedora Mobile**.
 
-- 💻 Atualmente estou mw aperfeisoando em React. 
+- 💻 Atualmente estou me aperfeisoando em React. 
 
 - ❤️ Sinta-se à vontade para explorar meus repositórios e conectar-se comigo para colaborar em projetos interessantes!
 
