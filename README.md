@@ -5,14 +5,14 @@
 <p align="justify">
 Sou uma Desenvolvedora Front-Eend. 
 Meu objetivo é desenvolver interfaces de usuário intuitivas com aplicativos da web e mobile. Tenho uma curiosidedade em sistemas de nuvens, sendo também um objetivoum objetivo futuro que pretendo explorar.
-Apaixonada por história, artes, moda e tecnologia, alguns dos meus hobbies são montar lego e quebra-cabeças, jogos mobile como AFK Journey e Tower of Fantasy, assistir séries - minhas preferiidas são B99 e The Big Bang Theory, e ler livros/quadrinhos/mangás/HQs. 
+Adimiradora por história, artes, moda e tecnologia, alguns dos meus hobbies são montar lego e quebra-cabeças, jogos mobile como Infinity Nikki e Tower of Fantasy, assistir séries - minhas preferiidas são B99 e The Big Bang Theory, e ler livros/quadrinhos/mangás/HQs. 
 </p>
 
 - 🙋 Pronomes: Ela/Dela
   
 - 🌱 Estou estudando para me **tornar uma Desenvolvedora Mobile**.
 
-- 💻 Atualmente estou aprendendo .NET C#.
+- 💻 Atualmente estou mw aperfeisoando em React. 
 
 - ❤️ Sinta-se à vontade para explorar meus repositórios e conectar-se comigo para colaborar em projetos interessantes!
 
