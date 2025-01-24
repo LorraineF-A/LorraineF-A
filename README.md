@@ -9,6 +9,8 @@ Adimiradora por história, artes, moda e tecnologia, alguns dos meus hobbies sã
 </p>
 
 - 🙋 Pronomes: Ela/Dela
+
+- 🌱 Cursando Análise e Desenvolvimento de Sistemas. 
   
 - 🌱 Estou estudando para me **tornar uma Desenvolvedora Mobile**.
 
