@@ -1,4 +1,4 @@
-<img alt="Tela com Depurador" src="https://ijnet.org/sites/default/files/styles/full_width_node/public/story/2021-10/chris-ried-ieic5Tq8YMk-unsplash.jpg?h=0c24f139&itok=-PHiVj3I" width=100% height=324>
+<img alt="Tela com Depurador" src="https://ijnet.org/sites/default/files/styles/full_width_node/public/story/2021-10/chris-ried-ieic5Tq8YMk-unsplash.jpg?h=0c24f139&itok=-PHiVj3I" width=100% height=224>
 
 <p align="center">
 Sou uma Desenvolvedora Front-Eend. 
