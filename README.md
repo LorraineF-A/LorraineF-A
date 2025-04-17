@@ -3,7 +3,7 @@
 <p align="center">
 Sou uma Desenvolvedora Front-Eend. 
 Meu objetivo é desenvolver interfaces de usuário intuitivas com aplicativos escalonáveis web e mobile, fáceis de usar e com fácil manutenção, fornecendo sempre uma experiência perfeita para o usuário. 
-Tenho uma curiosidedade em sistemas de nuvens, sendo também um objetivo futuro que pretendo explorar. Estou constantemente me aprofundando nas minhas tecnologias e frameworks utilizados, para encontrar as melhores soluções para os problemas em questão.
+Tenho uma curiosidedade em mobile, sendo também um objetivo futuro que pretendo explorar. Estou constantemente me aprofundando nas minhas tecnologias e frameworks utilizados, para encontrar as melhores soluções para os problemas em questão.
 </p>
 
 ## 
@@ -15,7 +15,7 @@ Tenho uma curiosidedade em sistemas de nuvens, sendo também um objetivo futuro 
       <td style="border: 0px; padding-right: 12px;">
         <p>🎓 Cursando Tecnologo em Análise e Desenvolvimento de Sistemas: 1/5.</p>
         <p>🔭 Atualmente estou me aperfeiçoando em React.</p>
-        <p>❤️ Sinta-se à vontade para explorar meus repositórios e conectar-se comigo para colaborar em projetos interessantes!</p>
+        <p>❤️ Sinta-se à vontade para explorar meus repositórios e conectar-se comigo!</p>
       </td>
       <td style="border: 0px;">
         <img alt="Developer vector created by storyset - www.freepik.com" height="400" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png">
