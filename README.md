@@ -16,6 +16,9 @@ Tenho uma curiosidedade em mobile, sendo também um objetivo futuro que pretendo
         <p>🎓 Cursando Tecnologo em Análise e Desenvolvimento de Sistemas: 1/5.</p>
         <p>🔭 Atualmente estou me aperfeiçoando em React.</p>
         <p>❤️ Sinta-se à vontade para explorar meus repositórios e conectar-se comigo!</p>
+        ## #30NitesOfCode:
+        [Check out my progress!](https://www.codedex.io/@Loriz/30-nites-of-code)  
+        ![@Loriz #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Loriz)
       </td>
       <td style="border: 0px;">
         <img alt="Developer vector created by storyset - www.freepik.com" height="400" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png">
