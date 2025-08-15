@@ -13,7 +13,7 @@ Tenho uma curiosidedade em mobile, sendo também um objetivo futuro que pretendo
   <table style="border: 0px; width: auto;">
     <tr style="border: 0px;">
       <td style="border: 0px; padding-right: 12px;">
-        <p>🎓 Cursando Tecnologo em Análise e Desenvolvimento de Sistemas: 1/5.</p>
+        <p>🎓 Cursando Tecnologo em Análise e Desenvolvimento de Sistemas: 2/5.</p>
         <p>🔭 Atualmente estou me aperfeiçoando em React.</p>
         <p>❤️ Sinta-se à vontade para explorar meus repositórios e conectar-se comigo!</p>
       </td>
